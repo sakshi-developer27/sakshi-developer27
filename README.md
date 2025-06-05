@@ -29,10 +29,8 @@
    🔹 Tech: ASP.NET MVC, JavaScript, Dapper ORM  
 
 ## 🌱 Learning Journey
-- Exploring containerization with Docker
-- Implementing CI/CD pipelines
 - Studying design patterns in C#
-- Learning Azure cloud services
+- Learning Javascript
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sakshideswal)
