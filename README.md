@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Sakshi Deswal
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C172&width=435&lines=Passionate+Developer;Open+Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
