@@ -16,14 +16,6 @@
 - Building scalable microservices with .NET Core
 - Optimizing SQL database performance
 - Implementing RESTful APIs with best practices
-- Learning cloud deployment (Azure)
-
-## 📈 GitHub Stats
-[![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshideswal&show_icons=true&theme=radical)](https://github.com/sakshideswal)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshideswal&layout=compact&theme=dark&hide=html,css)](https://github.com/sakshideswal)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sakshideswal&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 Featured Projects
 1. **[E-Commerce Backend](https://github.com/sakshideswal/ecommerce-backend)**  
@@ -37,11 +29,8 @@
    🔹 Tech: ASP.NET MVC, JavaScript, Dapper ORM  
 
 ## 🌱 Learning Journey
-- Exploring containerization with Docker
-- Implementing CI/CD pipelines
 - Studying design patterns in C#
-- Learning Azure cloud services
-
+- 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sakshideswal)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:sakshi.deswal@example.com)
