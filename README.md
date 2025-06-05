@@ -1,51 +1,50 @@
-# 👋 Hi, I'm Sakshi Deswal
+# 💻 Hello World! I'm Sakshi Deswal
+### .NET Developer | Backend Specialist | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C172&width=435&lines=Passionate+Developer;Open+Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=Passionate+.NET+Developer;Crafting+Robust+Backend+Systems;Turning+Requirements+into+Solutions)](https://git.io/typing-svg)
 
-💻 **Crafting code that solves real-world problems**  
-🌱 Currently learning: [e.g., Kubernetes, Rust]  
-🎯 2024 Goals: Contribute to 10+ open source projects  
-📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+## 🛠️ Core Technologies
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.net&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-5C2D91?logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web%20API-008080?logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
----
+## 🔭 Current Focus
+- Building scalable microservices with .NET Core
+- Optimizing SQL database performance
+- Implementing RESTful APIs with best practices
+- Learning cloud deployment (Azure)
 
-## 🛠️ Tech Stack
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+## 📈 GitHub Stats
+[![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshideswal&show_icons=true&theme=radical)](https://github.com/sakshideswal)
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshideswal&layout=compact&theme=dark&hide=html,css)](https://github.com/sakshideswal)
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=sakshideswal&theme=dark)](https://git.io/streak-stats)
 
-## 🏻 Featured Projects
-1. **[Project Name](https://github.com/yourusername/project-repo)**  
-   🔹 Short description of project  
-   🔹 Built with: React, Node.js, MongoDB  
-   🔹 Stars: ![Stars](https://img.shields.io/github/stars/yourusername/project-repo?style=flat-square)
+## 🏆 Featured Projects
+1. **[E-Commerce Backend](https://github.com/sakshideswal/ecommerce-backend)**  
+   🔹 RESTful API for online store using ASP.NET Core  
+   🔹 Features: JWT authentication, payment integration, Redis caching  
+   🔹 Tech: .NET 7, Entity Framework, SQL Server  
 
-2. **[Another Project](https://github.com/yourusername/another-repo)**  
-   🔹 Solution description  
-   🔹 Tech: Python, Flask, PostgreSQL
+2. **[Inventory Management System](https://github.com/sakshideswal/inventory-system)**  
+   🔹 MVC application for warehouse management  
+   🔹 Real-time reporting with SignalR  
+   🔹 Tech: ASP.NET MVC, JavaScript, Dapper ORM  
 
----
+## 🌱 Learning Journey
+- Exploring containerization with Docker
+- Implementing CI/CD pipelines
+- Studying design patterns in C#
+- Learning Azure cloud services
 
-## 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sakshideswal)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:sakshi.deswal@example.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourid)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
-
----
-
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
+> "First, solve the problem. Then, write the code." - John Johnson
